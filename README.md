@@ -24,6 +24,11 @@
   - **[Диплом](https://github.com/SenorRichie/data_analysis_portfolio/blob/main/diplom_document.pdf)**
 
 
+### 📱 Мои контакты:
+- **[Telegram](https://t.me/RedCoat)**
+- **[VK](https://vk.com/richardgosling7)**
+
+
 ****
 
 # 💼 Портфолио:
